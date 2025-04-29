@@ -31,3 +31,4 @@ palindrome(string)
 ![image](https://github.com/user-attachments/assets/a2db7a2a-9ea9-46ff-a33d-3f3cac2b09eb)
 
 ## Result
+Thus the program executed successfully.
